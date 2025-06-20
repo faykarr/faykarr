@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Currently working as IT Support Internship at Dinas Pendidikan Kota Pekalongan.<br>🌟 Open a new jobs opportunity.
+🧑‍💻 Currently working as IT Support Specialist at Dinas Pendidikan Kota Pekalongan.<br>🌟.
 
 
 ## 🌐 Socials:
