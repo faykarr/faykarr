@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Currently working as IT Support Specialist at Dinas Pendidikan Kota Pekalongan.<br>🌟.
+🧑‍💻 Currently working as IT Support Specialist at Dinas Pendidikan Kota Pekalongan.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=faykarr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faykarr&icon=2&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
